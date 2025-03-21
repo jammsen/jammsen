@@ -1,11 +1,13 @@
-# Hey you!
-
-- [About](#about)
-- [Docker](#docker)
-  - [TheForest](#theforest)
-  - [SonsOfTheForest](#sonsoftheforest)
-  - [Palworld](#palworld)
-- [Stats](#stats)
+<p align="center">
+  <h1 align="center">Hey you!</h2>
+</p>
+<p align="center">
+  <a href="#about">About</a>
+  ·
+  <a href="#docker">Docker</a> » <a href="#theforest">TheForest</a> | <a href="#sonsoftheforest">SonsOfTheForest</a> | <a href="#palworld">Palworld</a>
+  ·
+  <a href="#stats">Stats</a>
+</p>
 
 ## About
 

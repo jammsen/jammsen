@@ -1,6 +1,6 @@
-# Well ... hello there!
-
-![Hello there](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRzbWd4Mmszc2Jnc2VvZnZiY2R6aWlyMjJvNGthb3F0NnZlZzFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif)
+- [About](#about)
+- [Dockerbased Gameserver](#dockerbased-gameserver)
+- [Statistics](#statistics)
 
 ## About
 
@@ -11,6 +11,7 @@ metadata:
   name: Sebastian Schmidt
 spec:
   motivation: Learn and share about DevOps and Docker
+  job: Senior Application Manager and DevOps Engineer
   locations:
     - type: Website
       where: https://jammsen.de
@@ -25,6 +26,9 @@ spec:
     food: 🍚🍜🍖🍔🍕🍰
     drink: 🍹
 ```
+## Dockerbased Gameserver
+
+asdasd
 
 
 ## Statistics

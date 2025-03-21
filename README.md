@@ -19,6 +19,7 @@ metadata:
 spec:
   motivation: Learn and share about DevOps and Docker
   job: Senior Application Manager and DevOps Engineer
+  coding: Bash, Docker, Docker-Compose/YAML, HTML, CSS, JS/JSON, PHP
   locations:
     - type: Website
       where: https://jammsen.de
